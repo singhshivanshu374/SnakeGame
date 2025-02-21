@@ -27,7 +27,7 @@ function gameOver(){
     snakeBody = [];
     score = 0;
     scoreContainer.innerHTML = "Score : " + score
-    alert("Game Over");
+    alert("Bam! You just hit Shivanshu’s genius boundary limit! 😆 Game Over!");
 }
 
  // arr [ 1,2,3] --> [0,1,2,3] unshift
